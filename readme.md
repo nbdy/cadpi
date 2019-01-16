@@ -1,5 +1,6 @@
 ## cadpi
-just the stl files for [carpi](https://github.com/trig0n/carpi)
+just the stl files for [carpi](https://github.com/trig0n/carpi)<br>
+these are made for the 130x30mm slot of a ford fiesta ja8; which is located under the radio.<br>
 
 ### faq:
 Q: which stl's should i print?<br>
