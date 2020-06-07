@@ -1,13 +1,13 @@
 ## cadpi
 just the stl files for [carpi](https://github.com/trig0n/carpi)<br>
-these are made for the 130x30mm slot of a ford fiesta ja8; which is located under the radio.<br>
+these are made for the 130x30mm slot of a ford fiesta ja8 (mk7); which is located under the radio.<br>
 
 ### faq:
 Q: which stl's should i print?<br>
-A: use the folder 'stl/final/'; that's my current setup <br>
+A: use the folder 'stl/v{latest}'; that's my current setup <br>
 <br>
-Q: why do keep the folders 'stl/v*'?<br>
-A: so i can look back on how bad i was at cad<br> 
+Q: why do keep old versions?<br>
+A: so i can look back on how much worse my cad skills were<br> 
 <br>
 Q: why is there a 99-calibration.conf in 'stl/v1/'?<br>
 A: the first version had the screen be horizontal.<br>
