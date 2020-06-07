@@ -1,5 +1,5 @@
 ### v5
 #### top view
-![](https://github.com/smthnspcl/cadpi/tree/master/v5/img/top.jpg)
+![](https://raw.githubusercontent.com/smthnspcl/cadpi/master/v5/img/top.png)
 #### bottom view
-![](https://github.com/smthnspcl/cadpi/tree/master/v5/img/bottom.jpg)
+![](https://raw.githubusercontent.com/smthnspcl/cadpi/master/v5/img/bottom.png)
